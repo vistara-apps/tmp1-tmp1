@@ -1,0 +1,14 @@
+{
+  "name": "Tmp1",
+  "description": "Tmp1 is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://tmp1.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "Tmp1",
+      "description": "Tmp1 is a Base Mini App built with Zara.",
+      "url": "https://tmp1.vistara.dev",
+      "icon": "$NEXT_PUBLIC_URL/logo.png"
+    }
+  }
+}
